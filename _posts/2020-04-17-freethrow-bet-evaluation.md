@@ -1,6 +1,7 @@
 ---
 toc: true
 toc_label: "Sections"
+toc_sticky: true
 sidebar:
   nav: "foo"
 ---
