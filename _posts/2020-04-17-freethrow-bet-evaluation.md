@@ -1,9 +1,3 @@
----
-layout: post
-title: "Freethrow Bet Analysis"
-author: "Max Chiswick and Mike Thompson"
----
-
 **Contents**
 * TOC
 {:toc}
