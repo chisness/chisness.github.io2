@@ -1,6 +1,8 @@
 ---
 toc: true
 toc_label: "Sections"
+sidebar:
+  nav: "foo"
 ---
 
 This post was written jointly by Max Chiswick and [Mike Thompson](https://www.linkedin.com/in/mike-thompson-78655b13/)
